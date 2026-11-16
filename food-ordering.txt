@@ -1,0 +1,8 @@
+ONLINE FOOD ORDERING SYSTEM
+===========================
+
+Project Name: Online Food Ordering System
+Application Type: Web Application
+Payment Method: Cash on Delivery
+Delivery Charge: 50 BDT
+Order Status: Pending
